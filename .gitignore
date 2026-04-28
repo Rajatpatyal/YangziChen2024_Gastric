@@ -1,0 +1,60 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc.*
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# =========================
+# Jupyter / temp
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Excel / Data (generated or sensitive)
+# =========================
+prediction_result.xlsx
+*.csv
+
+# Lock files (LibreOffice issue)
+.~lock.*
+
+# =========================
+# Model files (optional)
+# =========================
+# Uncomment if you don’t want to push model
+# *.onnx
+
+# =========================
+# Environment files
+# =========================
+.env
+
+# =========================
+# IDEs
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Docker
+# =========================
+*.tar
