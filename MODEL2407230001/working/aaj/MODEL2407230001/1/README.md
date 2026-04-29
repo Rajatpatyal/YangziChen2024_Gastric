@@ -183,9 +183,7 @@ Documentation enhancements
 **Github:** https://github.com/Akshat0285 \
 **E-mail:** akshatp21@iiserb.ac.in \
 \
-**UnderSupervision:**
-- Prof. Karthik Raman, RBCDSAI, IIT Madras (kraman@iitm.ac.in)
-- Prof. Rahuman S Malik Sheriff, EMBL-EBI
+
 
 **Citations**
 -Chen Y, Wang B, Zhao Y, Shao X, Wang M, Ma F, Yang L, Nie M, Jin P, Yao K, Song H, Lou S, Wang H, Yang T, Tian Y, Han P, Hu Z. Metabolomic machine learning predictor for diagnosis and prognosis of gastric cancer. Nat Commun. 2024 Feb 23;15(1):1657. doi: 10.1038/s41467-024-46043-y. PMID: 38395893; PMCID: PMC10891053.
