@@ -151,9 +151,7 @@ Original Work
 Akshat Pandey
 GitHub: https://github.com/Akshat0285
 
-Supervision:
 
-IIT Madras
 EMBL-EBI
 Modifications & Implementation
 
